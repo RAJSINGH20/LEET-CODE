@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/RAJSINGH20/LEET-CODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/RAJSINGH20/LEET-CODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
