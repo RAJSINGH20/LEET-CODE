@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RAJSINGH20/LEET-CODE/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/RAJSINGH20/LEET-CODE/tree/master/0135-candy) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/RAJSINGH20/LEET-CODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3033-modify-the-matrix](https://github.com/RAJSINGH20/LEET-CODE/tree/master/3033-modify-the-matrix) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/RAJSINGH20/LEET-CODE/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RAJSINGH20/LEET-CODE/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/RAJSINGH20/LEET-CODE/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
